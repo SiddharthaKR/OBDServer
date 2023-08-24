@@ -1,0 +1,5 @@
+com\github\pires\obdserver\service\ReadingService.class
+com\github\pires\obdserver\repository\ObdReadingRepository.class
+com\github\pires\obdserver\Application.class
+com\github\pires\obdserver\rest\ReadingController.class
+com\github\pires\obdserver\model\ObdReading.class
